@@ -1,0 +1,13 @@
+.picture {
+    width: 250px;
+}
+
+@media (min-width: 768px) {
+    .card {
+        min-height: 250px;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #881631;
+}
